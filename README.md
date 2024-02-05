@@ -6,7 +6,7 @@
 <p align="center"> 
 <img src="https://telegra.ph/file/1e63f0ee90304a12767c7.jpg" width="300" height="300"/>
 </p>
-
+ 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -29,7 +29,7 @@
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
-## [`SCAN QR CODE`](https://www.janithsadanuwan.tech/QueenNilu/QrCode)
+## [`SCAN QR CODE`](https://replit.com/@Janithsadanuwan/QUEEN-NILU-MD?v=1)
 
 ## [`Get POSTGRESQL URL`](https://dashboard.render.com/new/database)
 
